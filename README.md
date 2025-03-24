@@ -2,7 +2,7 @@
 
 # welc;
 
-]self thought dev, 6 years experience in python, go, java, lua and learning rust.
+# self thought dev, 6 years experience in python, go, java, lua and learning rust.
 
 # game cheat dev, software dev, backend dev
 
