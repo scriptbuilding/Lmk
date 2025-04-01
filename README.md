@@ -1,4 +1,4 @@
-# Lmk // scriptbuulding 
+# Lmk // scriptbuilding 
 
 # welc;
 
